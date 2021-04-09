@@ -25,4 +25,4 @@ To run this project:
 *  ![Login panel:](../master/image/Login3.png)
 
 Main panel:
- * ![Screenshot](C:\Github\EmployeeManagementPanel\image\Login.png)
+ * ![Screenshot](..master/EmployeeManagementPanel/image/Login.png)
