@@ -22,7 +22,7 @@ To run this project:
  
 ## Appearance of the application
 
-![Login panel:](../master/image/Login3.png)
+![Login panel](../master/image/Login3.png)
 
 
-![Main panel:](../master/image/Login.png)
+![Main panel](../master/image/Login.png)
