@@ -22,7 +22,7 @@ To run this project:
  
 ## Appearance of the application
 
-*  ![Login panel:](../master/image/login3.png)
+*  ![Login panel:](../master/image/Login3.png)
 
 Main panel:
  * ![Screenshot](C:\Github\EmployeeManagementPanel\image\Login.png)
