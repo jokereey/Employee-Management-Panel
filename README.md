@@ -21,8 +21,8 @@ To run this project:
  * Import this project from .zip file to your IDE
  
 ## Appearance of the application
-Login panel:
-* ![Screenshot](C:\Github\EmployeeManagementPanel\image\Login3.png)
+
+*  ![Login panel:](../master/image/login3.png)
 
 Main panel:
  * ![Screenshot](C:\Github\EmployeeManagementPanel\image\Login.png)
